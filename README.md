@@ -1,6 +1,7 @@
 # MCP on Vercel with Stripe Payments
 
 This is a fork of [deploying MCP servers on Vercel](https://github.com/vercel-labs/mcp-on-vercel) to showcase Stripe payments.
+t
 
 ## Usage
 
